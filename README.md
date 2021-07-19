@@ -8,10 +8,9 @@ Software: Jupyter Notebook, Python, Anaconda Navigator
 
 ## Overview of the analysis: 
 
-The purpose of the Credit Risk analysis is to analyze a credit card credit dataset from LendingClub, a peer-to-peer lending services company, and use 6 different algorythms to predict credit risk. We will evaluate the results from the 6 machine learning algorythm models and decide which, if any, best predicts credit risk.
+The purpose of the Credit Risk analysis is to analyze a credit card credit dataset from LendingClub, a peer-to-peer lending services company, and use 6 different algorithms to predict credit risk. We will evaluate the results from the 6 machine learning algorithm models and decide which, if any, best predicts credit risk.
 
 ## Results: 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
   ### RandomOverSampler Model
   * Balanced Accuracy Scores: Approximately 65%.
