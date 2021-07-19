@@ -14,9 +14,10 @@ Explain the purpose of this analysis.
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
   ### RandomOverSampler Model
-  * Balanced Accuracy Scores
-  * Precision Scores
-  * Recall Scores
+  * Balanced Accuracy Scores: Approximately 66%.
+  * Precision Scores: High risk precision is only 1% with 63% sensitivity, which provides an F1 of 1%.
+  * Recall Scores: Due to the high number of low risk, the sensitivity is 66%.
+![image](https://user-images.githubusercontent.com/81447450/126101879-12abebbc-3d73-4c5d-9e54-47407c47a586.png)
 
   ### SMOTE Model
 
