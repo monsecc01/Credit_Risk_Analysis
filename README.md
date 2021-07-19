@@ -18,7 +18,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Precision Scores: High risk precision is only 1% with 63% sensitivity, which provides an F1 of 1%.
   * Recall Scores: Due to the high number of low risk, the sensitivity is 66%.
 
-![image](https://user-images.githubusercontent.com/81447450/126101879-12abebbc-3d73-4c5d-9e54-47407c47a586.png)
+  <img width="758" alt="randomoversampling" src="https://user-images.githubusercontent.com/81447450/126103092-d1c70656-fca2-4dbd-8d56-f5b57b63e480.png">
 
   ### SMOTE Model
 
@@ -26,7 +26,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Precision Scores
   * Recall Scores
  
- ![image](https://user-images.githubusercontent.com/81447450/126102401-922a3856-19ce-499a-9daa-2f1ed20b0cae.png)
+  <img width="754" alt="SMOTE" src="https://user-images.githubusercontent.com/81447450/126103122-90631e0b-7c81-481a-9c02-dc618adce8f6.png">
  
   ### ClusterCentroids
 
@@ -34,7 +34,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Precision Scores
   * Recall Scores
  
- <img width="755" alt="cluster centroids" src="https://user-images.githubusercontent.com/81447450/126102768-a2080ad8-3468-497d-93da-723b9719f623.png">
+  <img width="755" alt="cluster centroids" src="https://user-images.githubusercontent.com/81447450/126102768-a2080ad8-3468-497d-93da-723b9719f623.png">
  
   ### SMOTEENN
   
